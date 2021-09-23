@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Ionic, Vue, Java, NodeJs, Git...
 - 💞️ I’m looking to collaborate on every project that helps me learning out a lot.
 - 📫 My email is ialexcc99@gmail.com or alecc_cc@hotmail.com
+- 🔧 Currently working on a cross-platform App with Ionic-VueJs.
+
 
 <!---
 alexcordovac/alexcordovac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
