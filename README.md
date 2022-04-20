@@ -1,14 +1,12 @@
 - 👋 Hi, I’m @alexcordovac
-- 👀 I’m interested in web design and backend technologies.
-- 🌱 I’m currently learning Ionic, Vue, Java, NodeJs, Git...
+- 👀 I’m interested in frontend design and backend technologies.
+- 🌱 I’m currently working with Net Standard and SQL Server technologies
 - 💞️ I’m looking to collaborate on every project that helps me learning out a lot.
-- 📫 My email is ialexcc99@gmail.com or alecc_cc@hotmail.com
-- 🔧 Currently working on a cross-platform App with Ionic-VueJs.
+- 📫 My email is alexcordovac@outlook.com
 
 Some web designs I have made:
--https://zacariasytorres.mx/
 -http://emcco.com.mx/
--http://www.zacfyasociados.com.mx/
+
 
 
 <!---
